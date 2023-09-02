@@ -1,3 +1,3 @@
 # TurismoMobile
 
-Acesse aqui: https://turismomobile.netlify.app/
+Acesse aqui: https://atividademobile.netlify.app/
